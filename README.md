@@ -3,5 +3,8 @@ A game I made with the help of GBDK in C. It is a clone of the popular offline G
 
 
 ## Installation
-
 To install the game you'll need a GameBoy emulator. I would recommend Visual Boy Advance. 
+
+
+## Demo
+https://www.youtube.com/watch?v=Q8KvmB8FU2Y
